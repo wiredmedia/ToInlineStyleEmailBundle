@@ -10,7 +10,6 @@
 
     <services>
         <service id="css_to_inline_email_converter" class="%css_to_inline_email_converter.class%">
-            <argument type="service" id="templating" on-invalid="ignore" />
         </service>
     </services>
 </container>
