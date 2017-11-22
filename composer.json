@@ -20,7 +20,7 @@
         "tijsverkoyen/css-to-inline-styles": "dev-master"
     },
     "require-dev": {
-        "symfony/framework-bundle": ">=2.1,<2.4-dev"
+        "symfony/framework-bundle": "2.8"
     },
     "autoload": {
         "psr-0": { "RobertoTru\\ToInlineStyleEmailBundle": "" }
